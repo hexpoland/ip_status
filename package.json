@@ -1,0 +1,20 @@
+{
+  "name": "ip-status",
+  "main": "./lib/ip-status",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "ip",
+    "ip adress",
+    "ip status"
+  ],
+  "repository": "https://github.com/atom/ip-status",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "ip-address": "^5.8.8",
+    "jquery": "^3.2.1"
+  }
+}

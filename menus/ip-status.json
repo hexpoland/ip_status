@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Show IP Adress",
+        "command": "ip-status:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ip-status",
+          "submenu": [
+            {
+              "label": "Show IP",
+              "command": "ip-status:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
