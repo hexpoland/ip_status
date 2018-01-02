@@ -1,7 +1,7 @@
 {
   "name": "ip-status",
   "main": "./lib/ip-status",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Show ip on status bar",
   "keywords": [
     "ip",
