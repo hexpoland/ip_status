@@ -1,6 +1,4 @@
 # ip-status package
 
 Show you Local Ip Adress in footer bar.
-
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+(<a href="https://imgbb.com/"><img src="https://i.ibb.co/jhJKwvL/Zrzut-ekranu-2018-12-31-o-14-30-46.png" alt="Zrzut-ekranu-2018-12-31-o-14-30-46" border="0" /></a>)
